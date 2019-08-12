@@ -7,6 +7,6 @@ GUI for Nxlink in python
 
 3.browse nro file / enter Switch Ip adress
 
-4.click Send NRO this
+4.click Send NRO button
 
 5.Boom X ?!

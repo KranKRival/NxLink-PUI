@@ -1,7 +1,7 @@
 # Nxkink-PUI
 GUI for Nxlink in python
 
-1.Open HB Menu and click on Y key
+1.open HB Menu and click on Y key
 
 2.click on Nxlink_start.sh to open the tool
 

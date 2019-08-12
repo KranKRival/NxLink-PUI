@@ -1,4 +1,4 @@
-# Nxkink-PUI
+# NxLink-PUI
 GUI for Nxlink in python
 
 1.open HB Menu and click on Y key
